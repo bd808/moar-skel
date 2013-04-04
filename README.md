@@ -39,6 +39,6 @@ Tests are automatically performed by [Travis CI][]:
 [Moar PHP Library]: https://github.com/bd808/moar
 [ci-status]: https://travis-ci.org/bd808/{{REPO}}.png
 [ci-home]: https://travis-ci.org/bd808/{{REPO}}
-[{{PACKAGIST}}]: https://packagist.org/packages/moar/metrics
+[{{PACKAGIST}}]: https://packagist.org/packages/{{PACKAGIST}}
 [Composer]: http://getcomposer.org
 [Travis CI]: https://travis-ci.org
