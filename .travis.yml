@@ -5,6 +5,7 @@ php:
   - 5.5
 before_script:
   - composer install --dev
+script: phpunit --testdox
 notifications:
   email:
     -travis-ci+{{REPO}}@bd808.com
