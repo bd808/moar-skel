@@ -93,7 +93,7 @@ END;
   foreach ($dirs as $dir) {
     echo "    {$dir}\n";
     mkdir($dir, 0755, true);
-    touch("{$dir}/.gitignore");
+    touch("{$dir}/.gitkeep");
   }
 
   echo <<<END
