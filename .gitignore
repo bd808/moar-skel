@@ -1,7 +1,8 @@
+.env
 .php-version
 build
 composer.lock
 composer.phar
+moar-start-project.php
 phpunit.xml
 vendor
-moar-start-project.php
