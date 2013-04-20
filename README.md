@@ -13,7 +13,7 @@ via [Composer][].
 
     {
       "require": {
-        "moar/metrics": "dev-master"
+        "{{PACKAGIST}}": "dev-master"
       }
     }
 
